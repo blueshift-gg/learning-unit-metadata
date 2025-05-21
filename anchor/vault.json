@@ -1,8 +1,8 @@
 {
-    "name": "Anchor 101 - Vault",
-    "description": "This NFT certify that the owner has completed Blueshift `Anchor 101 - Vault` Unit",
+    "name": "Anchor Vault",
+    "description": "This NFT certifies that the owner has completed the Anchor Vault challenge on Blueshift.gg",
     "image": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/anchor/vault.png",
-    "external_url": "https://learn.blueshift.gg/en/courses/anchor-vault/lesson",
+    "external_url": "https://learn.blueshift.gg/en/courses/anchor-vault",
     "properties": {
     "files": [
         {
