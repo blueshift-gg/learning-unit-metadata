@@ -1,8 +1,8 @@
 {
-    "name": "Pinocchio - Vault",
-    "description": "This NFT certify that the owner has completed Blueshift `Pinocchio - Vault` Unit",
+    "name": "Pinocchio Vault",
+    "description": "This NFT certifies that the owner has completed the Pinocchio Vault challenge on Blueshift.gg",
     "image": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/pinocchio/vault.png",
-    "external_url": "https://learn.blueshift.gg/en/courses/anchor-vault/lesson",
+    "external_url": "https://learn.blueshift.gg/en/courses/anchor-vault",
     "properties": {
     "files": [
         {
