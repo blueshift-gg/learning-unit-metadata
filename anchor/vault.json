@@ -1,12 +1,12 @@
 {
     "name": "Anchor 101 - Vault",
     "description": "This NFT certify that the owner has completed Blueshift `Anchor 101 - Vault` Unit",
-    "image": "https://raw.githubusercontent.com/blueshift-gg/learning-unit-metadata/main/anchor101/anchor_vault.png",
+    "image": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/anchor/vault.png",
     "external_url": "https://learn.blueshift.gg/en/courses/anchor-vault/lesson",
     "properties": {
     "files": [
         {
-            "uri": "https://raw.githubusercontent.com/blueshift-gg/learning-unit-metadata/main/anchor101/anchor_vault.png",
+            "uri": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/anchor/vault.png",
             "type": "image/png"
         }
     ],
