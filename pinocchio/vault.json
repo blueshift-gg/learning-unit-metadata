@@ -2,14 +2,24 @@
     "name": "Pinocchio Vault",
     "description": "This NFT certifies that the owner has completed the Pinocchio Vault challenge on Blueshift.gg",
     "image": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/pinocchio/vault.png",
-    "external_url": "https://learn.blueshift.gg/en/courses/pinocchio-vault/lesson",
-    "properties": {
-    "files": [
+    "external_url": "https://learn.blueshift.gg/en/courses/pinocchio-vault",
+    "attributes": [
         {
-            "uri": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/pinocchio/vault.png",
-            "type": "image/png"
+            "trait_type": "Category",
+            "value": "Pinocchio"
+        },
+        {
+            "trait_type": "Difficult",
+            "value": "Intermediate"
         }
     ],
-    "category": "image"
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/pinocchio/vault.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
     }
 }
