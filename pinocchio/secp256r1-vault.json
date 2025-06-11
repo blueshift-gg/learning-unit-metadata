@@ -1,12 +1,12 @@
 {
-    "name": "Pinocchio Secp2556r1 Vault",
-    "description": "This NFT certifies that the owner has completed the Pinocchio Secp2556r1 Vault challenge on Blueshift.gg",
-    "image": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/pinocchio/secp2556r1-vault.png",
-    "external_url": "https://learn.blueshift.gg/en/courses/pinocchio-secp2556r1-vault/lesson",
+    "name": "Pinocchio Secp256r1 Vault",
+    "description": "This NFT certifies that the owner has completed the Pinocchio Secp256r1 Vault challenge on Blueshift.gg",
+    "image": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/pinocchio/secp256r1-vault.png",
+    "external_url": "https://learn.blueshift.gg/en/courses/pinocchio-secp256r1-vault/lesson",
     "properties": {
     "files": [
         {
-            "uri": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/pinocchio/secp2556r1-vault.png",
+            "uri": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/pinocchio/secp256r1-vault.png",
             "type": "image/png"
         }
     ],
