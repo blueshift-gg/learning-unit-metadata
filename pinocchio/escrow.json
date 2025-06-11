@@ -1,0 +1,15 @@
+{
+    "name": "Pinocchio Escrow",
+    "description": "This NFT certifies that the owner has completed the Pinocchio Escrow challenge on Blueshift.gg",
+    "image": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/pinocchio/escrow.png",
+    "external_url": "https://learn.blueshift.gg/en/courses/pinocchio-escrow/lesson",
+    "properties": {
+    "files": [
+        {
+            "uri": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/pinocchio/escrow.png",
+            "type": "image/png"
+        }
+    ],
+    "category": "image"
+    }
+}
