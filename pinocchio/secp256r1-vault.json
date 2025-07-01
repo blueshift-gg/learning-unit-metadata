@@ -2,7 +2,7 @@
     "name": "Pinocchio Secp256r1 Vault",
     "description": "This NFT certifies that the owner has completed the Pinocchio Secp256r1 Vault challenge on Blueshift.gg",
     "image": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/pinocchio/secp256r1-vault.png",
-    "external_url": "https://learn.blueshift.gg/en/courses/pinocchio-secp256r1-vault",
+    "external_url": "https://learn.blueshift.gg/en/challenges/pinocchio-secp256r1-vault",
     "attributes": [
         {
             "trait_type": "Category",

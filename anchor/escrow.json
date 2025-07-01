@@ -2,7 +2,7 @@
     "name": "Anchor Escrow",
     "description": "This NFT certifies that the owner has completed the Anchor Escrow challenge on Blueshift.gg",
     "image": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/anchor/escrow.png",
-    "external_url": "https://learn.blueshift.gg/en/courses/anchor-escrow",
+    "external_url": "https://learn.blueshift.gg/en/challenges/anchor-escrow",
     "attributes": [
         {
             "trait_type": "Category",
