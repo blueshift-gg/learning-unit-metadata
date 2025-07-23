@@ -1,0 +1,25 @@
+{
+    "name": "Pinocchio Flash Loan",
+    "description": "This NFT certifies that the owner has completed the Pinocchio Flash Loan challenge on Blueshift.gg",
+    "image": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/pinocchio/flash-loan.png",
+    "external_url": "https://learn.blueshift.gg/en/challenges/pinocchio-flash-loan",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Pinocchio"
+        },
+        {
+            "trait_type": "Difficult",
+            "value": "Intermediate"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/pinocchio/flash-loan.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}

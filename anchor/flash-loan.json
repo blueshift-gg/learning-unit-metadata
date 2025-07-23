@@ -1,0 +1,25 @@
+{
+    "name": "Anchor Flash Loan",
+    "description": "This NFT certifies that the owner has completed the Anchor Flash Loan challenge on Blueshift.gg",
+    "image": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/anchor/flash-loan.png",
+    "external_url": "https://learn.blueshift.gg/en/challenges/anchor-flash-loan",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Anchor"
+        },
+        {
+            "trait_type": "Difficult",
+            "value": "Intermediate"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/anchor/flash-loan.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}
