@@ -1,0 +1,25 @@
+{
+    "name": "Pinocchio AMM",
+    "description": "This NFT certifies that the owner has completed the Pinocchio AMM challenge on Blueshift.gg",
+    "image": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/pinocchio/amm.png",
+    "external_url": "https://learn.blueshift.gg/en/challenges/pinocchio-amm",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Pinocchio"
+        },
+        {
+            "trait_type": "Difficult",
+            "value": "Advanced"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/pinocchio/amm.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}
