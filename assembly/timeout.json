@@ -1,0 +1,25 @@
+{
+    "name": "Assembly Timeout",
+    "description": "This NFT certifies that the owner has completed the Assembly Timeout challenge on Blueshift.gg",
+    "image": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/assembly/timeout.png",
+    "external_url": "https://learn.blueshift.gg/en/challenges/assembly-timeout",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Assembly"
+        },
+        {
+            "trait_type": "Difficult",
+            "value": "Advanced"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/assembly/timeout.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}

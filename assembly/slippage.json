@@ -1,0 +1,25 @@
+{
+    "name": "Assembly Slippage",
+    "description": "This NFT certifies that the owner has completed the Assembly Slippage challenge on Blueshift.gg",
+    "image": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/assembly/slippage.png",
+    "external_url": "https://learn.blueshift.gg/en/challenges/assembly-slippage",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Assembly"
+        },
+        {
+            "trait_type": "Difficult",
+            "value": "Advanced"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/assembly/slippage.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}

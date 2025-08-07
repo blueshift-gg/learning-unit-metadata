@@ -1,0 +1,25 @@
+{
+    "name": "Assembly Memo",
+    "description": "This NFT certifies that the owner has completed the Assembly Memo challenge on Blueshift.gg",
+    "image": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/assembly/memo.png",
+    "external_url": "https://learn.blueshift.gg/en/challenges/assembly-memo",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Assembly"
+        },
+        {
+            "trait_type": "Difficult",
+            "value": "Advanced"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/assembly/memo.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}
